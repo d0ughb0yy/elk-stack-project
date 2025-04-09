@@ -1,1 +1,1 @@
-# soc-lab
+# SOC Lab Project
