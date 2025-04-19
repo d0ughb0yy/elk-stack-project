@@ -7,4 +7,4 @@ The aim of the project is to simulate an attack on the client server, using brut
 ## Brute Force Attacks
 I used my Kali machine running on my other PC to perform a Brute Force attack on both the SSH and FTP ports running on my Ubuntu Client server.
 ### SSH Brute Force Attack Custom view in Kibana
-([pics/kibana_custom_view_brute-force_ssh.png](https://github.com/d0ughb0yy/soc-lab/blob/main/pics/kibana_custom_view_brute-force_ssh.png))
+![kibana_custom_view_brute-force_ssh](https://github.com/user-attachments/assets/c3ebf2e8-dc8d-47da-9368-8fd5457a3cde)
