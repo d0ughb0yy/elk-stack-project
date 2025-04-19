@@ -1,0 +1,1 @@
+alert tcp any any -> $HOME_NET any (msg:"SCAN - Potential TCP port scan"; flow:stateless; flags:S; xbits:set,portscanning,track ip_src,expire 60; threshold:type both, track by_src, count 75, seconds 10; classtype:attempted-recon; sid:1000001; rev:1;)
