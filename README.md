@@ -29,3 +29,6 @@ else if [event][dataset] == "system.auth" {
       }
     }
 ```
+### FTP Brute Force Attack Custom view in Kibana
+I suricata's rules for log ingestion and filtering so I could filter the view by the code like 530 for incorrect login as well as which username or password was used.
+![kibana_custom_view_brute-force_ftp](https://github.com/user-attachments/assets/58aed292-d0e0-42c5-9f2b-5f66ec379a82)
